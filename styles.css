@@ -6,6 +6,7 @@
 body {
     background-color:hsl(0, 14%, 89%);
     font-family: "Barlow Semi Condensed", serif;
+    scroll-behavior:smooth ;
 }
 
 .all {
@@ -24,6 +25,9 @@ body {
 .daniel {
     grid-area:a;
     background-color:  hsl(263, 55%, 52%);
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: top right 2rem;
 }
 
 .jonathan {
