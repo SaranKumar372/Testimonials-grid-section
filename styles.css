@@ -6,6 +6,7 @@
 body {
     background-color:hsl(0, 14%, 89%);
     font-family: "Barlow Semi Condensed", serif;
+    text-align:justify;
 }
 
 .all {
